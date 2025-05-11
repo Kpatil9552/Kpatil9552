@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kpatil9552 = Krushna Rakesh Patil
-- 👀 I’m interested in Computer science and Sodtware Development
+- 👀 I’m interested in Computer science and Machine Learning
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me krishna70589@gmail.com
